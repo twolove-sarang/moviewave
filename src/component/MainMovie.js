@@ -2,7 +2,8 @@ import React from 'react'
 
 const MainMovie = () => {
   return (
-    <div>MainMovie</div>
+    <div>
+    </div>
   )
 }
 
